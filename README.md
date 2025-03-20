@@ -20,5 +20,8 @@ This is a **fully responsive Education Website** built using **React.js, Vite, a
 - **React Icons** 🏗️  
 
 ## 📂 Some Screenshots
-![Screenshot1]()
+![Screenshot1](https://github.com/ItsMeAreebaAmjad/EducationWebsite-React/blob/main/image1.png)
+![Screenshot2](https://github.com/ItsMeAreebaAmjad/EducationWebsite-React/blob/main/image2.png)
+![Screenshot3](https://github.com/ItsMeAreebaAmjad/EducationWebsite-React/blob/main/image3.png)
+![Screenshot4](https://github.com/ItsMeAreebaAmjad/EducationWebsite-React/blob/main/image4.png)
 
